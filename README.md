@@ -1,4 +1,4 @@
 - 👋 Hola, I’m Joel Joseph.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Artificial Intelligence and Data Science (B.Tech).
+- 🌱 I’m pursuing at Artificial Intelligence and Data Science (B.Tech).
 - 📫 How to reach me through my mail ( joeljoseph.2020.ad@ritchennai.edu.in ).
