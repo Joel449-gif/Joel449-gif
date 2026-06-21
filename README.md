@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joel Joseph</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
-- 🔭 I’m currently working on [Elisa: Chest Xray Predictor](https://elisa-chestxray.netlify.app/)
+- I’m currently learning **Langchain, RAG**
 
-- 🌱 I’m currently learning **Frameworks, Courses**
+- All of my projects are available at [https://github.com/Joel449-gif](https://github.com/Joel449-gif)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Joel449-gif](https://github.com/Joel449-gif)
+- Ask me about **AI/ML and Data Science**
 
-- 💬 Ask me about **AI/ML and Data Science**
-
-- 📫 How to reach me **joeljosephikkara@gmail.com**
+- How to reach me **joeljosephikkara@gmail.com**
 
 <p align="left">
 </p>
