@@ -1,0 +1,35 @@
+name: Keep Contribution Graph Green
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 08:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Random delay (0-2 hours)
+        run: sleep $((RANDOM % 7200 + 300))  # 5 min minimum
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "joeljosephikkara@gmail.com"
+
+      - name: Run auto-commit script
+        run: python scripts/autocommit.py
+
+      - name: Push changes
+        run: git push
