@@ -1,7 +1,7 @@
 # Hi, I'm Joel 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working on 
+- 🔭 I'm currently working on Auto-correct using llm
 - 🌱 I'm currently learning MCP agentic AI
 - 📫 How to reach me: joeljosephikkara@gmail.com
 
