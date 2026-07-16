@@ -1,15 +1,9 @@
 # Hi, I'm Joel 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working on...
-- 🌱 I'm currently learning...
-- 👯 I'm looking to collaborate on...
-- 🤔 I'm looking for help with...
-- 💬 Ask me about...
+- 🔭 I'm currently working on autocorrect using LLM
+- 🌱 I'm currently learning RAG and MCP
 - 📫 How to reach me: joeljosephikkara@gmail.com
 
 ## 🛠️ Skills
-<!-- Add your skills here -->
-
-## 📊 GitHub Stats
-<!-- Optional: Add stats cards later -->
+Python • PyTorch • TensorFlow • Hugging Face • FastAPI • LangChain • LLMs • Generative AI • RAG • AI Agents • MCP • Docker • Git • Linux • SQL • Scikit-learn • Pandas • NumPy • REST APIs
