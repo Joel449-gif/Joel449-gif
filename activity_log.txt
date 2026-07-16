@@ -1,1 +1,2 @@
 [2026-07-16T14:20:04] perf: optimize database queries
+[2026-07-16T16:13:05] docs: update API documentation
