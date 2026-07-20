@@ -2,3 +2,4 @@
 [2026-07-16T16:13:05] docs: update API documentation
 [2026-07-16T15:29:07] refactor: extract helper functions
 [2026-07-17T15:09:10] docs: update API documentation
+[2026-07-20T10:03:52] fix: handle null pointer exception
