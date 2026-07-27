@@ -11,3 +11,4 @@
 [2026-07-27T09:05:57] feat: add input sanitization
 [2026-07-27T13:06:54] docs: clarify usage examples
 [2026-07-27T13:47:46] perf: optimize database queries
+[2026-07-27T14:10:35] fix: handle null pointer exception
