@@ -14,3 +14,4 @@
 [2026-07-27T14:10:35] fix: handle null pointer exception
 [2026-07-28T15:59:44] fix: resolve race condition
 [2026-07-28T09:26:22] docs: clarify usage examples
+[2026-07-28T17:26:25] style: format code consistently
