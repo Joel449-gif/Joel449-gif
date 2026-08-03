@@ -21,3 +21,4 @@
 [2026-07-31T13:44:00] fix: correct timestamp formatting
 [2026-07-31T12:07:05] style: format code consistently
 [2026-07-31T15:16:25] fix: correct timestamp formatting
+[2026-08-03T09:36:06] feat: implement caching layer
