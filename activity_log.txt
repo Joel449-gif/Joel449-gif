@@ -26,3 +26,4 @@
 [2026-08-04T12:50:56] feat: add input sanitization
 [2026-08-05T14:32:40] style: format code consistently
 [2026-08-05T11:32:40] chore: clean up unused imports
+[2026-08-06T14:15:21] docs: update API documentation
