@@ -27,3 +27,4 @@
 [2026-08-05T14:32:40] style: format code consistently
 [2026-08-05T11:32:40] chore: clean up unused imports
 [2026-08-06T14:15:21] docs: update API documentation
+[2026-08-07T11:01:57] fix: resolve edge case in validation logic
