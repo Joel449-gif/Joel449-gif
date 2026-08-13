@@ -37,3 +37,4 @@
 [2026-08-12T13:10:27] fix: resolve edge case in validation logic
 [2026-08-12T09:21:47] chore: clean up unused imports
 [2026-08-12T14:20:34] feat: implement caching layer
+[2026-08-13T09:52:46] test: add unit tests for utils
