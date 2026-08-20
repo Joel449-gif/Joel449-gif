@@ -45,3 +45,4 @@
 [2026-08-18T11:39:33] refactor: extract helper functions
 [2026-08-19T14:52:14] refactor: improve error handling
 [2026-08-20T10:07:45] docs: update API documentation
+[2026-08-20T11:52:15] feat: implement caching layer
