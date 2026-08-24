@@ -50,3 +50,4 @@
 [2026-08-24T09:25:22] feat: implement caching layer
 [2026-08-24T09:58:16] refactor: improve error handling
 [2026-08-24T10:18:03] chore: clean up unused imports
+[2026-08-24T16:57:49] refactor: improve error handling
