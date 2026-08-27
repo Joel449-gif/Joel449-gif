@@ -52,3 +52,4 @@
 [2026-08-24T10:18:03] chore: clean up unused imports
 [2026-08-24T16:57:49] refactor: improve error handling
 [2026-08-25T15:45:40] docs: clarify usage examples
+[2026-08-27T09:24:32] docs: clarify usage examples
