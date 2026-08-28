@@ -53,3 +53,4 @@
 [2026-08-24T16:57:49] refactor: improve error handling
 [2026-08-25T15:45:40] docs: clarify usage examples
 [2026-08-27T09:24:32] docs: clarify usage examples
+[2026-08-28T13:44:20] refactor: extract helper functions
