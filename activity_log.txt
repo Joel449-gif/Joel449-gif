@@ -59,3 +59,4 @@
 [2026-09-03T16:40:13] chore: update dependencies
 [2026-09-07T09:13:25] fix: resolve race condition
 [2026-09-09T13:17:00] docs: clarify usage examples
+[2026-09-09T10:50:50] fix: resolve edge case in validation logic
