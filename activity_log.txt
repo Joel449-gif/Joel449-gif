@@ -61,3 +61,4 @@
 [2026-09-09T13:17:00] docs: clarify usage examples
 [2026-09-09T10:50:50] fix: resolve edge case in validation logic
 [2026-09-11T10:00:48] feat: add input sanitization
+[2026-09-11T13:01:01] feat: implement caching layer
