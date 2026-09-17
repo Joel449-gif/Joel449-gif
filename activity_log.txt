@@ -71,3 +71,4 @@
 [2026-09-17T16:28:21] docs: update API documentation
 [2026-09-17T13:08:43] fix: resolve race condition
 [2026-09-17T09:54:51] chore: clean up unused imports
+[2026-09-17T13:13:21] refactor: improve error handling
