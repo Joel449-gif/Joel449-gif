@@ -80,3 +80,4 @@
 [2026-09-25T17:52:16] refactor: extract helper functions
 [2026-09-25T12:35:10] docs: update API documentation
 [2026-09-25T16:36:27] docs: clarify usage examples
+[2026-09-25T09:49:11] docs: update API documentation
