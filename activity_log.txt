@@ -79,3 +79,4 @@
 [2026-09-23T17:01:23] fix: correct timestamp formatting
 [2026-09-25T17:52:16] refactor: extract helper functions
 [2026-09-25T12:35:10] docs: update API documentation
+[2026-09-25T16:36:27] docs: clarify usage examples
