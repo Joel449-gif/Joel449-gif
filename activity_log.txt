@@ -86,3 +86,4 @@
 [2026-09-29T10:48:48] perf: optimize database queries
 [2026-09-29T15:17:41] feat: implement caching layer
 [2026-09-30T14:54:04] fix: resolve race condition
+[2026-09-30T17:56:09] docs: clarify usage examples
