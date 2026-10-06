@@ -92,3 +92,4 @@
 [2026-10-02T11:27:56] chore: update dependencies
 [2026-10-05T15:37:01] chore: clean up unused imports
 [2026-10-05T11:03:01] refactor: extract helper functions
+[2026-10-06T17:34:25] fix: handle null pointer exception
