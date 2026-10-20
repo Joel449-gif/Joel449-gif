@@ -101,3 +101,4 @@
 [2026-10-14T10:42:28] feat: implement caching layer
 [2026-10-15T16:28:59] feat: implement caching layer
 [2026-10-19T16:25:28] feat: implement caching layer
+[2026-10-20T12:53:40] test: add unit tests for utils
