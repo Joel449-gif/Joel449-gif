@@ -103,3 +103,4 @@
 [2026-10-19T16:25:28] feat: implement caching layer
 [2026-10-20T12:53:40] test: add unit tests for utils
 [2026-10-20T10:41:53] docs: clarify usage examples
+[2026-10-20T15:16:15] docs: update API documentation
