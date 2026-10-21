@@ -105,3 +105,4 @@
 [2026-10-20T10:41:53] docs: clarify usage examples
 [2026-10-20T15:16:15] docs: update API documentation
 [2026-10-20T13:09:21] style: format code consistently
+[2026-10-21T10:20:52] style: format code consistently
