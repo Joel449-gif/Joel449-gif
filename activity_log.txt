@@ -108,3 +108,4 @@
 [2026-10-21T10:20:52] style: format code consistently
 [2026-10-21T16:00:31] feat: implement caching layer
 [2026-10-22T14:49:34] chore: clean up unused imports
+[2026-10-22T11:16:29] refactor: extract helper functions
