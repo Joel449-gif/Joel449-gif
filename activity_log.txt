@@ -111,3 +111,4 @@
 [2026-10-22T11:16:29] refactor: extract helper functions
 [2026-10-23T12:19:44] chore: clean up unused imports
 [2026-10-26T14:32:02] docs: update API documentation
+[2026-10-28T09:33:34] fix: resolve race condition
