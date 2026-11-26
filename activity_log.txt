@@ -132,3 +132,4 @@
 [2026-11-20T14:51:57] chore: clean up unused imports
 [2026-11-23T13:41:58] perf: optimize database queries
 [2026-11-23T12:49:44] refactor: extract helper functions
+[2026-11-26T10:28:16] test: add unit tests for utils
